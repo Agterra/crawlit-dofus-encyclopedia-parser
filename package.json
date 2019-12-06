@@ -52,8 +52,9 @@
         "clui": "^0.3.6",
         "commander": "^2.19.0",
         "inquirer": "^5.1.0",
-        "request-promise-native": "^1.0.7",
-        "request": "^2.88.0"
+        "jslint": "^0.12.1",
+        "request": "^2.88.0",
+        "request-promise-native": "^1.0.7"
     },
     "devDependencies": {
         "@babel/cli": "^7.5.0",
